@@ -291,10 +291,6 @@ When reporting bugs, please include:
 - **Actual Behavior**: What actually happens
 - **Screenshots**: If applicable
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Expo** team for the amazing development platform
@@ -304,10 +300,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/your-username/privycode-mobile/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/privycode-mobile/discussions)
-- **Email**: support@privycode.com
-
----
-
-Made with ❤️ by the PrivyCode team
+- **Issues**: [GitHub Issues](https://github.com/24samj/privycode-mobile/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/24samj/privycode-mobile/discussions)
+- **Email**: hi@sumit.codes
