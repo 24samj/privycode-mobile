@@ -116,11 +116,6 @@ yarn ios
 npm run android
 # or
 yarn android
-
-# Web (for testing)
-npm run web
-# or
-yarn web
 ```
 
 ## 📱 Project Structure
@@ -200,28 +195,6 @@ export const ExampleComponent: React.FC<ComponentProps> = ({
 - Use **local state** for component-specific state
 - Implement **proper loading states**
 
-## 🧪 Testing
-
-### Running Tests
-
-```bash
-# Run all tests
-npm test
-
-# Run tests in watch mode
-npm test -- --watch
-
-# Run tests with coverage
-npm test -- --coverage
-```
-
-### Testing Guidelines
-
-- Write **unit tests** for utility functions
-- Write **component tests** for complex components
-- Write **integration tests** for critical user flows
-- Maintain **good test coverage**
-
 ## 📦 Building for Production
 
 ### iOS Build
@@ -244,13 +217,6 @@ eas build --platform android
 eas build --platform android --profile preview
 ```
 
-### Web Build
-
-```bash
-# Build for web
-expo export --platform web
-```
-
 ## 🤝 Contributing
 
 We welcome contributions! Please follow these steps:
@@ -270,7 +236,6 @@ git checkout -b fix/your-bug-fix
 ### 3. Make Your Changes
 
 - Write clean, well-documented code
-- Add tests for new functionality
 - Update documentation as needed
 - Follow the existing code style
 
@@ -283,7 +248,6 @@ npm start
 # Test on different platforms
 npm run ios
 npm run android
-npm run web
 ```
 
 ### 5. Commit Your Changes
@@ -314,7 +278,6 @@ We follow the [Conventional Commits](https://www.conventionalcommits.org/) speci
 - `docs:` - Documentation changes
 - `style:` - Code style changes (formatting, etc.)
 - `refactor:` - Code refactoring
-- `test:` - Adding or updating tests
 - `chore:` - Maintenance tasks
 
 ## 🐛 Bug Reports
