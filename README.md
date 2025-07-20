@@ -120,7 +120,7 @@ yarn android
 
 ## 📱 Project Structure
 
-```
+```text
 privycode-mobile/
 ├── app/                          # Main application code
 │   ├── components/               # Reusable UI components
@@ -293,6 +293,7 @@ When reporting bugs, please include:
 
 ## 🙏 Acknowledgments
 
+- **[David Olowomeye (@greatdaveo)](https://github.com/greatdaveo)** - Creator of PrivyCode and the backend API that powers this mobile app. PrivyCode was originally built by David with both the [backend server](https://github.com/greatdaveo/privycode-server) and web frontend.
 - **Expo** team for the amazing development platform
 - **React Navigation** team for navigation solutions
 - **TanStack** team for React Query
